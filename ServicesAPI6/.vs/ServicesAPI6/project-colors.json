@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1b558c04-14d1-4224-bcac-f77523b8e9ba": {
+      "ProjectGuid": "1b558c04-14d1-4224-bcac-f77523b8e9ba",
+      "DisplayName": "ServicesAPI6",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Diğer Dosyalar",
+      "ColorIndex": -1
+    },
+    "330bc412-a857-47e9-9a1d-92895b4beefe": {
+      "ProjectGuid": "330bc412-a857-47e9-9a1d-92895b4beefe",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 1
+    },
+    "4e1bc0a3-33d1-4f85-8331-9fab48eb6845": {
+      "ProjectGuid": "4e1bc0a3-33d1-4f85-8331-9fab48eb6845",
+      "DisplayName": "DAL",
+      "ColorIndex": 2
+    },
+    "53304ed3-8845-45a6-8c3e-92ac374cc9c1": {
+      "ProjectGuid": "53304ed3-8845-45a6-8c3e-92ac374cc9c1",
+      "DisplayName": "Entities",
+      "ColorIndex": 3
+    },
+    "7da8f48d-ea4e-40f6-b599-030c2f1fea6d": {
+      "ProjectGuid": "7da8f48d-ea4e-40f6-b599-030c2f1fea6d",
+      "DisplayName": "DAL",
+      "ColorIndex": 4
+    },
+    "e7708a9e-d0ed-4e83-97d8-dc756d704f77": {
+      "ProjectGuid": "e7708a9e-d0ed-4e83-97d8-dc756d704f77",
+      "DisplayName": "EFLibCore",
+      "ColorIndex": 5
+    },
+    "4d58f0c0-36e4-4f8e-9d42-4bb2e0a3b389": {
+      "ProjectGuid": "4d58f0c0-36e4-4f8e-9d42-4bb2e0a3b389",
+      "DisplayName": "MonitoringService",
+      "ColorIndex": 6
+    },
+    "5ba53370-74e3-4a30-98f9-c2d433a02550": {
+      "ProjectGuid": "5ba53370-74e3-4a30-98f9-c2d433a02550",
+      "DisplayName": "MonitoringService",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

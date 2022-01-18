@@ -1,0 +1,2 @@
+8.01.2022 11:34:00:HATA An error occurred while saving the entity changes. See the inner exception for details.
+8.01.2022 11:38:00:HATA An error occurred while saving the entity changes. See the inner exception for details.
